@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+date: 2026-03-25T17:02
+updated: 2026-03-25T18:54
 ---
 
 # 👋
@@ -11,3 +10,6 @@ I work for [CodeDay](https://codeday.org), helping to increase enrollment in com
 
 When I'm not working, I like to play board games, solve jigsaw puzzles, and lose at Magic the Gathering. I'm always up for an interesting adventure.
 
+I'm not on social media, but here are some interesting links:
+- [Map of (almost) every flight I've ever taken](https://my.flightradar24.com/lowlah)
+- I voluntarily installed a keylogger on my computer. [click here](https://whatpulse.org/u/oohwooh) for my stats
