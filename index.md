@@ -1,7 +1,7 @@
 ---
 layout: home
 date: 2026-03-25T17:02
-updated: 2026-03-25T18:54
+updated: 2026-03-31T21:24
 ---
 
 # 👋
@@ -13,3 +13,5 @@ When I'm not working, I like to play board games, solve jigsaw puzzles, and lose
 I'm not on social media, but here are some interesting links:
 - [Map of (almost) every flight I've ever taken](https://my.flightradar24.com/lowlah)
 - I voluntarily installed a keylogger on my computer. [click here](https://whatpulse.org/u/oohwooh) for my stats
+
+All the writing on this page is my own (unless otherwise stated.) I don't use AI to write or edit any of the content on this website.
