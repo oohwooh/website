@@ -1,6 +1,6 @@
 ---
 date: 2026-04-06T21:05:00
-updated: 2026-04-06T23:28
+updated: 2026-04-06T23:38
 layout: post
 title: How To Set Up Your Own Blog (for free, in under an hour)
 permalink: /blog-howto/
@@ -258,7 +258,7 @@ Next up, we need to run a couple `git` commands. Remember git?
 - In your terminal, run `git add .`
 - next, run `git commit -m "commit message"`
 
-(you can edit the commit message to be whatever you want, but keep in mind it will be publicly viewable. Good commit messages are short summaries of what changed since the last commit, for instance "Add Blog Tutorial Post")
+(you can edit the commit message to be whatever you want, but keep in mind it will be publicly viewable. Good commit messages are short summaries of what changed since the last commit, for instance "[Add Blog Tutorial Post](https://github.com/oohwooh/website/commit/65069a2de17fbd90680d7f9417ccac290cc9f256)")
 These two commands create a "checkpoint" of everything in your `blog` folder. Next, we're going to "push" (upload) that checkpoint to GitHub.
 
 To push, we need to log your terminal in to GitHub. There are a lot of different ways to do this, but the easiest is with the GitHub CLI. 
