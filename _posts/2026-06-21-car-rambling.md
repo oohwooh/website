@@ -1,6 +1,6 @@
 ---
 date: 2026-06-21T16:28
-updated: 2026-06-21T17:08
+updated: 2026-07-01T15:53
 title: Some Ramblings About Cars and Other Stuff
 layout: post
 ---
