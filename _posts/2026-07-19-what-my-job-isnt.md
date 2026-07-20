@@ -1,6 +1,6 @@
 ---
 date: 2026-07-19T11:36
-updated: 2026-07-19T11:48
+updated: 2026-07-20T12:14
 layout: post
 title: What My Job Isn't
 ---
@@ -56,9 +56,9 @@ def parse_email(email: str):
 
 ```
 
-I also used [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment) since I was trying to do this in one day and ran out of time in my one day to figure out how to do sentiment analysis on my own on my own.
+I also used [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment) since I was trying to do this in one day and ran out of time in my one day to figure out how to do sentiment analysis on my own.
 
-I tested it a little bit then sent my code free on the 40,000 emails (thanks google takeout!)
+I tested it a little bit then set my code free on the 40,000 emails (thanks google takeout!)
 
 For each email, my code gave me:
 - The industry the email most feels like
