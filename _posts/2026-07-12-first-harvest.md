@@ -3,6 +3,7 @@ date: 2026-07-09T11:44
 updated: 2026-07-12T15:40
 title: First Harvest!
 layout: post
+redirect_from: /2026/07/09/first-harvest
 ---
 Today I got my first harvest from the peppers I [planted a few weeks ago](/2026/06/14/planting)! I didn't realize they were ready but I went to the farmers market and asked the people I bought the starters from for advice, since they seemed like they would be ready soon.
 

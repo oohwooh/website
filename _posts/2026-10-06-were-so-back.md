@@ -1,7 +1,7 @@
 ---
 title: We're So Back
+redirect_from: /2026/10/06/were-so-back
 layout: post
-date: 2026-10-06T11:20:00
 ---
 Missed a few weeks, my bad. I got a [new hyperfocus](https://store.steampowered.com/app/382310/Eco/) and, as new hyperfoci tend to do, it enveloped all available time including the time I usually set aside on Sundays to write the weekly posts. 
 

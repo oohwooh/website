@@ -1,6 +1,5 @@
 ---
 title: Randyland
-date: 2026-11-07T12:59:00
 tags:
   - travel
   - personal

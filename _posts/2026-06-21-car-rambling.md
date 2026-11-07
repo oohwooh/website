@@ -3,6 +3,7 @@ date: 2026-06-21T16:28
 updated: 2026-07-12T15:39
 title: Some Ramblings About Cars and Other Stuff
 layout: post
+redirect_from: /2026/06/21/car-rambling
 ---
 I made it to week two of posting once a week like I [promised last week](/2026/06/14/planting). Good job me!
 

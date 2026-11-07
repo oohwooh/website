@@ -1,6 +1,6 @@
 ---
 title: What city has the most colorful cars?
-date: 2026-10-26T00:12:00
+redirect_from: /2026/10/26/car-colors-by-state
 layout: post
 ---
 Something that does not make me smile is homogeneity in car colors. Everything is monochrome when we could be having a rainbow of fun colors, and this is a trend that is continuing to worsen over time.

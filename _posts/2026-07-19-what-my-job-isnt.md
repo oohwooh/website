@@ -3,6 +3,7 @@ date: 2026-07-19T11:36
 updated: 2026-07-20T12:14
 layout: post
 title: What My Job Isn't
+redirect_from: /2026/07/19/what-my-job-isnt
 ---
 I get a lot of email. Many of the emails I get fundamentally misunderstand my job. (Mostly sales emails, I'm categorized incorrectly in a lot of lead datasets I guess)
 

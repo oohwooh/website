@@ -1,7 +1,6 @@
 ---
-date: 2026-08-09T18:44
-updated: 2026-08-09T19:51
 title: Editing OpenStreetMap is not as hard as I thought
+redirect_from: /2026/08/09/openstreetmap
 layout: post
 ---
 I've been making a lot of contributions to [OpenStreetMap](https://www.openstreetmap.org/) lately.

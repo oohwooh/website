@@ -1,7 +1,6 @@
 ---
-date: 2026-08-01T18:30:00
-updated: 2026-08-01T18:36
 layout: post
+redirect_from: /2026/08/01/what-makes-me-smile
 title: Things That Make Me Smile
 ---
 The vibes are bad in the world right now. Everyone is angry at something, all the time. 

@@ -1,7 +1,9 @@
 ---
+title: Code is Art
+redirect_from: /2026/11/03/code-is-art
 tags:
   - creativity
-date: 2026-11-03T22:33:00
+
 layout: post
 ---
 

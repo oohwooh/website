@@ -1,5 +1,6 @@
 ---
 title: February + March 2026
+redirect_from: /2026/03/25/travel-feb
 layout: post
 date: 2026-03-25T17:48:00
 updated: 2026-03-25T18:32

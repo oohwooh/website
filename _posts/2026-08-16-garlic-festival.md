@@ -1,7 +1,7 @@
 ---
-layout: post
-date: 2026-08-16T15:22:00
 title: Garlic!
+redirect_from: /2026/08/16/garlic-festival
+layout: post
 ---
 This weekend I went to the [Minnesota Garlic Festival](https://www.mngarlicfest.com/). It was a lot of fun!
 
