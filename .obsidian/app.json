@@ -4,5 +4,6 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
   "newFileLocation": "folder",
-  "newFileFolderPath": "_drafts"
+  "newFileFolderPath": "_drafts",
+  "livePreview": false
 }

@@ -5,6 +5,7 @@ _site
 vendor
 .obsidian/plugins
 .obsidian/workspace.json
+.trash
 _drafts/
 Gemfile.lock
 /.obsidian/graph.json
