@@ -11,7 +11,7 @@ Today I planted some garlic!
 
 ![](/images/2026-11-22-garlic-planting/planting-garlic.png)
 
-I have been meaning to ever since I [went to the Minnesota Garlic Festival](/2026-08-16-garlic-festival.md) earlier this year. I thought I missed my window to plant it because I was procrastinating but apparently I didn't, according to my Jeff, my friend who is a garlic expert.
+I have been meaning to ever since I [went to the Minnesota Garlic Festival](/2026-08-16-garlic-festival) earlier this year. I thought I missed my window to plant it because I was procrastinating but apparently I didn't, according to my Jeff, my friend who is a garlic expert.
 
 Yesterday, I dug up the [peppers I planted](/2026-06-14-planting) and started preparing the soil for planting. I got rid of as many roots as I could, rocks, and added some compost. In adding the compose, I learned a valuable lesson about not gardening during the dark - the compost had a bunch of twigs and fibers and such I couldn't see due to the low light so in the morning I realized I basically un-did all my work yesterday by adding the compost. 
 
